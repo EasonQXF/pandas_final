@@ -132,7 +132,7 @@ display(报)
 #### 加分：清晰、整洁，css样式设计合理
 - 代码没有多余的符号，增加部分代码处的解释说明注释文字。
 - 利用jupyter notebook的代码美化工具进一步优化代码排版。
-![美化工具](https://raw.githubusercontent.com/EasonQXF/pandas_final/master/images/%E7%BE%8E%E5%8C%96%E5%B7%A5%E5%85%B7.png)
+![美化工具](https://images.gitee.com/uploads/images/2020/0714/000636_cb213a57_2229377.png)
 - 参考平时廖老师和许老师的课件讲义添加CSS样式优化阅读效果。
 
 #### markdown细节规范 3%
@@ -145,14 +145,14 @@ display(报)
 
 # 主要项目作品方案一（应至少包含基本的数据分析结果：如分进合击出报表的结果可视化，数据重塑后的时间、空间对比等） 15%
 - 数据分析结果的基本的对比图 5%
-![基本](https://raw.githubusercontent.com/EasonQXF/pandas_final/master/images/%E5%9F%BA%E6%9C%AC.png)
-![基本](https://raw.githubusercontent.com/EasonQXF/pandas_final/master/images/%E5%9F%BA%E6%9C%AC2.png)
-![基本](https://raw.githubusercontent.com/EasonQXF/pandas_final/master/images/%E5%9F%BA%E6%9C%AC3.png)
+![基本](https://images.gitee.com/uploads/images/2020/0714/000637_79e20ac4_2229377.png)
+![基本](https://images.gitee.com/uploads/images/2020/0714/000635_bdadf66f_2229377.png)
+![基本](https://images.gitee.com/uploads/images/2020/0714/000635_890be5b9_2229377.png)
 
 - 数据分析结果的时空交互 5%
-![可视化](https://raw.githubusercontent.com/EasonQXF/pandas_final/master/images/%E5%8F%AF%E8%A7%86%E5%8C%961.png)
+![可视化](https://gitee.com/EdisonQXF/pandas_final/raw/master/images/%E5%8F%AF%E8%A7%86%E5%8C%961.png)
 
 - 数据分析结果的地图 5%
-![可视化地图](https://raw.githubusercontent.com/EasonQXF/pandas_final/master/images/%E5%8F%AF%E8%A7%86%E5%8C%962.png)
+![可视化地图](https://images.gitee.com/uploads/images/2020/0714/000638_2851a292_2229377.png)
 
 - 加分项：数据分析结果的时空交互的地图
